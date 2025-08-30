@@ -25,32 +25,6 @@ Developed a production-ready URL shortening service using Flask and Redis, conta
 3. Docker
 4. Python 3.9+
 
-# Project Directory
-```
-.
-├── app.py
-├── docker-compose.yml
-├── Dockerfile
-├── kubernetes
-│   ├── configs
-│   │   ├── config-map.yaml
-│   │   └── secrets.yaml
-│   ├── deployments
-│   │   ├── redis-deployment.yaml
-│   │   └── web-deployment.yaml
-│   ├── hpa
-│   │   └── web-hpa.yaml
-│   ├── ingress
-│   │   └── ingress.yaml
-│   └── services
-│       ├── redis-service.yaml
-│       └── web-service.yaml
-├── README.md
-├── requirements.txt
-└── stress_test.py
-
-6 directories, 14 files
-```
 
 # How to run the Project
 
