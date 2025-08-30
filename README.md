@@ -6,17 +6,12 @@ Developed a production-ready URL shortening service using Flask and Redis, conta
 
 # Features
 
-- Shorten URLs – Convert long URLs into short, shareable links.
-
-- Kubernetes Deployment – Runs in a K8s cluster with Redis for caching.
-
-- Horizontal Pod Autoscaling (HPA) – Automatically scales based on traffic.
-
-- Ingress Routing – Custom domain support (e.g., short.ly).
-
-- Load Testing – Includes a Python script for stress testing.
-
-- Dockerized – Containerized for easy deployment.
+- **Shorten URLs** – Convert long URLs into short, shareable links.
+- **Kubernetes Deployment** – Runs in a K8s cluster with Redis for caching.
+- **Horizontal Pod Autoscaling (HPA)** – Automatically scales based on traffic.
+- **Ingress Routing** – Custom domain support (e.g., short.ly).
+- **Load Testing** – Includes a Python script for stress testing.
+- **Dockerized** – Containerized for easy deployment.
 
 
 # Prerequirements 
